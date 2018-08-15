@@ -1,0 +1,12 @@
+url_list:
+ - /usr/service
+ - /usr/info
+ - /svr/info
+
+dbconfig:
+ port: 3306
+ user: root
+ password: root
+ host: 127.0.0.1
+ db: test
+ charset: utf8
